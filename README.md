@@ -1,8 +1,9 @@
-<h1 align="center">✨ Bienvenue sur mon GitHub ✨</h1>
+<h1 align="center">👋 Bienvenue sur mon GitHub ! ✨👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=800&lines=Étudiante+Ingénieure+en+Digital+de+Santé+%7C+Passionnée+par+la+Santé+Numérique;Fouille+de+Donn%C3%A9es+%7C+IA+%7C+IoT+%7C+Analyse+M%C3%A9dicale;Optimisation+des+Syst%C3%A8mes+de+Sant%C3%A9+%7C+Interop%C3%A9rabilit%C3%A9+HL7+FHIR;Ensemble%2C+transformons+le+futur+de+la+sant%C3%A9+%21" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=25&pause=1000&color=5F9EA0&center=true&vCenter=true&width=800&lines=Étudiante+Ingénieure+en+Digital+de+Santé;Passionnée+par+l'IA+et+les+Solutions+Médicales;Machine+Learning+%7C+IoT;Innovons+pour+un+avenir+plus+connecté+et+plus+sain+%21;Let's+leverage+technology+to+improve+healthcare+%F0%9F%8F%97%EF%B8%8F">
 </p>
+
 
 ---
 
