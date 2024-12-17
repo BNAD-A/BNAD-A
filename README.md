@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bienvenue sur mon GitHub ! ✨👩‍💻</h1>
+<h1 align="center">👋 Xelcome to my GitHub ! ✨👩‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=25&pause=1000&color=5F9EA0&center=true&vCenter=true&width=800&lines=Digital+Health+Engineering+Student;Passionate+about+AI+and+Healthcare+Solutions;Data+Mining+%7C+Machine+Learning+%7C+IoT;Innovating+for+a+More+Connected+and+Healthier+Future!;Let's+leverage+technology+to+improve+healthcare+%F0%9F%8F%97%EF%B8%8F">
