@@ -6,7 +6,7 @@
 💬 Ask me about digital health trends, healthcare technology integration, and the intersection of technology and patient care. I love discussing how we can leverage technology to solve real-world healthcare challenges!
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-benchaou-105514253/)
 
 
