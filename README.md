@@ -69,13 +69,6 @@
 
 
 ### 📈 My GitHub Statistics
-### ✨ Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BNAD-A&theme=bear&hide_border=false&include_all_commits=true&count_private=true)
-
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BNAD-A&theme=bear&hide_border=false)
-
-### 📚 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BNAD-A&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
