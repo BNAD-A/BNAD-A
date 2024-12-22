@@ -68,8 +68,9 @@
 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://www.nvidia.com/)
 
 
-### 📈 My GitHub Statistics
+# 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BNAD-A&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BNAD-A&icon=0&color=0)](https://visitcount.itsvg.in)
