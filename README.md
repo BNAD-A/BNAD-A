@@ -69,7 +69,7 @@
 
 
 # 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BNAD-A&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Languages in Repository](https://github-readme-stats.vercel.app/api/top-langs/?username=BNAD-A&repo=your-repository-name&theme=bear&hide_border=false&layout=compact)
 
 
 ---
