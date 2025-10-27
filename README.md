@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=4F9D9D&center=true&vCenter=true&width=850&lines=💡+Digital+Health+Engineering+Student;🤖+Building+the+Future+of+AI+in+Healthcare;🧠+Deep+Learning+%7C+Medical+Imaging+%7C+Data+Science;🌍+Turning+Data+into+Care+and+Innovation;🚀+Let's+Revolutionize+Healthcare+Together!">
 </p>
 
-
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 
 ---
@@ -92,6 +94,14 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BNAD-A&icon=0&color=0)](https://visitcount.itsvg.in)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/BNAD-A/BNAD-A/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 ✨ *"Building a healthier future through digital technology."* 🚀  
