@@ -93,6 +93,8 @@
 ![Languages in Repository](https://github-readme-stats.vercel.app/api/top-langs?username=BNAD-A&show_icons=true&locale=en&layout=compact)
 
 ---
+<img src="https://raw.githubusercontent.com/BNAD-A/BNAD-A/output/snake.svg" alt="Snake animation" />
+
 [![](https://visitcount.itsvg.in/api?id=BNAD-A&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
