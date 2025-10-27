@@ -1,70 +1,90 @@
 <h1 align="center">👋 Welcome to my GitHub ! ✨👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=25&pause=1000&color=5F9EA0&center=true&vCenter=true&width=800&lines=Digital+Health+Engineering+Student;Passionate+about+AI+and+Healthcare+Solutions;Data+Mining+%7C+Machine+Learning+%7C+IoT;Innovating+for+a+More+Connected+and+Healthier+Future!;Let's+leverage+technology+to+improve+healthcare+%F0%9F%8F%97%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=4F9D9D&center=true&vCenter=true&width=850&lines=💡+Digital+Health+Engineering+Student;🤖+Building+the+Future+of+AI+in+Healthcare;🧠+Deep+Learning+%7C+Medical+Imaging+%7C+Data+Science;🌍+Turning+Data+into+Care+and+Innovation;🚀+Let's+Revolutionize+Healthcare+Together!">
 </p>
+
 
 
 
 ---
 
 # 💫 About Me:
-🔭 I'm currently working on academic projects combining AI, IoT, data mining, and web development to create innovative healthcare solutions.<br>
-👯 I'm looking to collaborate on innovative healthcare projects, particularly those involving telemedicine, patient data management, or healthcare process optimization.<br>
-🤝 I'm looking for help with expanding my knowledge in healthcare regulations and compliance standards for digital health solutions.<br>
-🌱 I'm currently learning advanced data analytics for healthcare applications, machine learning in medical diagnosis, and modern healthcare interoperability standards <br>
-💬 Ask me about digital health trends, healthcare technology integration, and the intersection of technology and patient care. I love discussing how we can leverage technology to solve real-world healthcare challenges!
+
+💡 Passionate about the fusion of **Artificial Intelligence, Medical Imaging, and Healthcare**, I thrive on building intelligent systems that don’t just process data — they **improve lives**.  
+   
+🧠 Currently, I’m diving deep into projects that blend **AI-driven diagnosis**, **real-time patient monitoring**, and **data analytics** to make healthcare smarter, faster, and more human-centered.  
+
+🌍 I’m always open to **collaborations** on impactful digital health solutions — from **telemedicine platforms** to **predictive patient monitoring** and **medical image analysis**.  
+
+🚀 Beyond coding, I’m exploring **healthcare compliance**, **data ethics**, and **interoperability standards** to ensure that innovation meets responsibility.  
+
+✨ Let’s connect if you’re passionate about using technology to **transform healthcare** and **empower patients**. Together, we can turn data into care, and algorithms into empathy.  
 
 
 ## 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-benchaou-105514253/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-benchaou-105514253/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bnadabenchaou@gmail.com) 
 
 
-### **Compétences Techniques**
+## 🧩 Technical Skills
 
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-
----
-
-### **Technologies Cloud et Bases de Données**
-
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+<h3 align="left">Programming Languages:</h3>
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+</p>
 
 ---
 
-### **Outils Analytiques et Bibliothèques**
-
-[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-
----
-
-### **Outils de Développement et Gestion** 
-
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
+## ☁️ Cloud Technologies & Databases
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/></a>
+</p>
 
 ---
 
-### **Technologies Diverses**
+## 📊 Analytical Tools & Libraries
+<p align="left">
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
+<a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/></a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Apache Hadoop" width="40" height="40"/></a>
+</p>
 
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.org/)
-[![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)](https://www.cisco.com/)
+---
+
+## ⚙️ Development & Management Tools
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+</p>
+
+---
+
+## 🔧 Other Technologies
+<p align="left">
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/></a>
+<a href="https://www.cisco.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="40" height="40"/></a>
+</p>
 
 
 # 📊 Most Used Languages
