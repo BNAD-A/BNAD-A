@@ -96,4 +96,28 @@
 <img src="https://raw.githubusercontent.com/BNAD-A/BNAD-A/output/snake.svg" alt="Snake animation" />
 
 
+---
+
+<h2 align="center">🐍 Contribution Graph Animation</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5F9EA0&center=true&vCenter=true&width=600&lines=Watch+my+contributions+come+to+life!;The+AI+Snake+is+on+the+move+💫" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BNAD-A/BNAD-A/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BNAD-A/BNAD-A/output/snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/BNAD-A/BNAD-A/output/snake-dark.svg" />
+  </picture>
+</div>
+
+<p align="center">
+  <sub><i>“Even the AI snake contributes to open source 🧠💻”</i></sub>
+</p>
+
+---
+
+
+
 ✨ *"Building a healthier future through digital technology."* 🚀  
