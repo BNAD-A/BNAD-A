@@ -1,8 +1,11 @@
 name: Generate Snake Animation
 
+permissions:
+  contents: write   # ✅ autorise le push sur la branche output
+
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Met à jour toutes les 12 heures
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -18,7 +21,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: BNAD-A    # ⚠️ Mets bien ton pseudo GitHub ici
+          github_user_name: BNAD-A
           outputs: dist/snake.svg
 
       - name: Push snake animation to output branch
