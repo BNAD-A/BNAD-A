@@ -95,15 +95,5 @@
 ---
 <img src="https://raw.githubusercontent.com/BNAD-A/BNAD-A/output/snake.svg" alt="Snake animation" />
 
-[![](https://visitcount.itsvg.in/api?id=BNAD-A&icon=0&color=0)](https://visitcount.itsvg.in)
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BNAD-A/BNAD-A/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 ✨ *"Building a healthier future through digital technology."* 🚀  
